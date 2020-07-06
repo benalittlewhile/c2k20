@@ -12,3 +12,6 @@ Including but not limited to
   * what a templating engine is in the first place
   * pixel art cookie production
   * mongoosejs
+
+The website gives everyone a unique cookie on their first visit, and saves it to make sure 
+nobody else can have it again. On subsequent visits the site displays the user's cookie.
